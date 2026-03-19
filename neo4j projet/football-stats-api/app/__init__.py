@@ -1,0 +1,1 @@
+"""Football Stats API - Main application package"""

@@ -1,0 +1,9 @@
+backend
+venv\Scripts\activate     
+
+python -m app.main 
+
+
+
+frontend
+npm run dev  
